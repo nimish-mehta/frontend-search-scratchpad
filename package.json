@@ -1,0 +1,17 @@
+{
+  "name": "search-libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticlunr": "^0.9.5",
+    "lunr": "^0.7.1",
+    "lunr-languages": "0.0.4",
+    "triesearch": "^1.0.2"
+  }
+}
